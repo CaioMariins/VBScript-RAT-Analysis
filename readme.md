@@ -1,8 +1,10 @@
 # 🔬 Análise Técnica Detalhada: [RAT/sorvepotel]
 
-**sha256**: f6e94fa9e9316191168dd36a698a02f4dfd914b5533f4161f5e1377470e034c2
-**File name**: Orcamento.zip
-**First seen**: 2025-10-13 22:21:34 UTC
+* **sha256**: f6e94fa9e9316191168dd36a698a02f4dfd914b5533f4161f5e1377470e034c2
+
+* **File name**: Orcamento.zip
+
+* **First seen**: 2025-10-13 22:21:34 UTC
 
 Este repositório serve como portfólio para apresentar uma análise aprofundada de um malware baseado em VBScript, focado em sua ofuscação de múltiplas camadas, persistência robusta e capacidades de Comando e Controle (C2). O objetivo desta análise é dissecar o *modus operandi* da ameaça, desde a execução inicial até a comunicação com o servidor C2 e o rol completo de comandos suportados.
 
